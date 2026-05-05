@@ -8,7 +8,7 @@ Bachelor of Applied Technology — AI & Robotics (Second Degree)
 ## About Me
 
 I am a returning adult student pursuing a BAT in Applied AI & Robotics, bringing over a decade of experience in real estate and property management into the AI space. My focus is on building practical, production-oriented AI systems — particularly at the intersection of NLP, cybersecurity, and intelligent automation.
-My first degree is a B.L.S. in Communications from the University of Iowa — which turns out to be relevant in AI systems that process and understand human language.
+My first degree is a B.L.S. in Communications & Media Studies from the University of Iowa — which turns out to be relevant in AI systems that process and understand human language.
 Before returning to school, I spent 10+ years in real estate investment and Airbnb property management. That background shapes how I approach AI: I think about systems that have to work in the real world, under real constraints, with real consequences for getting it wrong.
 
 ---
