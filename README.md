@@ -40,7 +40,7 @@ Before returning to school, I spent 10+ years in real estate investment and Airb
 |--------|-------|-----------|
 | ITAI 2373 | Natural Language Processing | [NLP-ITAI2373](https://github.com/Nichelleg/NLP-ITAI2373) |
 | ITAI 1371 | AI in Cybersecurity | *Coming soon* |
-| ITAI 2372 | AI Applications & Case Studies | *Coming soon* |
+| ITAI 2372 — AI Applications & Case Studies | [AI-Apps-ITAI2372](https://github.com/Nichelleg/AI-Apps-ITAI2372) | ✅ Active |
 
 ### 📅 Summer 2026
 | Course | Title |
