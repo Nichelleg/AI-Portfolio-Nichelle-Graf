@@ -42,11 +42,6 @@ Before returning to school, I spent 10+ years in real estate investment and Airb
 | ITAI 1371 | AI in Cybersecurity | *Coming soon* |
 | ITAI 2372 | AI Applications & Case Studies | [AI-Apps-ITAI2372](https://github.com/Nichelleg/AI-Apps-ITAI2372) | ✅ Active |
 
-### 📅 Summer 2026
-| Course | Title |
-|--------|-------|
-| ITSE 1346 | Database Theory & Design (Oracle) |
-
 ### 🔮 Fall 2026
 | Course | Title |
 |--------|-------|
@@ -54,6 +49,7 @@ Before returning to school, I spent 10+ years in real estate investment and Airb
 | ITAI 2374 | Robot Operating Systems & Platforms in AI |
 | ITAI 2376 | Deep Learning in AI |
 | ITAI 2377 | Data Science in AI |
+| ITSE 1346 | Database Theory & Design (Oracle) |
 
 ---
 
