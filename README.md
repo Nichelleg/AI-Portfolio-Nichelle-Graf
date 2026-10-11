@@ -55,7 +55,7 @@ Before returning to school, I spent 10+ years in real estate investment and Airb
 
 ## Course Repositories
 
-Repositories are built as courses are completed. Each contains labs, projects, and documentation showcasing work done in that course.
+Course repositories document ongoing coursework, technical labs, and applied projects. Each repository serves as both an academic record and a developing professional portfolio.
 
 | Course | Repository | Status |
 |--------|-----------|--------|
