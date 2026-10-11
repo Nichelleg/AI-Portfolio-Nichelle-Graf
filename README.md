@@ -43,13 +43,13 @@ Before returning to school, I spent 10+ years in real estate investment and Airb
 | ITAI 2372 | AI Applications & Case Studies | [AI-Apps-ITAI2372](https://github.com/Nichelleg/AI-Apps-ITAI2372) 
 
 ### 🔄 In progress - Fall 2026
-| Course | Title |
-|--------|-------|
-| ITAI 1378 | Computer Vision for AI |
-| ITAI 2374 | Robot Operating Systems & Platforms in AI |
-| ITAI 2376 | Deep Learning in AI |
-| ITAI 2377 | Data Science in AI |
-| ITSE 1346 | Database Theory & Design (Oracle) |
+| Course | Title | Repository |
+|--------|-------|------------|
+| ITAI 1378 | Computer Vision for AI | [ComputerVision-ITAI1378](https://github.com/Nichelleg/ComputerVision-ITAI1378) |
+| ITAI 2374 | Robot Operating Systems & Platforms in AI | *Coming soon* |
+| ITAI 2376 | Deep Learning in AI | *Coming soon* |
+| ITAI 2377 | Data Science in AI | *Coming soon* |
+| ITSE 1346 | Database Theory & Design (Oracle) | *Coming soon* |
 
 ---
 
