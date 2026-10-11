@@ -35,14 +35,14 @@ Before returning to school, I spent 10+ years in real estate investment and Airb
 | ITNW 1313 | Computer Virtualization |
 | ITAI 1371 | Introduction to Machine Learning |
 
-### 🔄 In Progress — Spring 2026
+### ✅ Completed — Spring 2026
 | Course | Title | Repository |
 |--------|-------|-----------|
-| ITAI 2373 | Natural Language Processing | [NLP-ITAI2373](https://github.com/Nichelleg/NLP-ITAI2373) |
+| ITAI 2373 | Natural Language Processing | [NLP-ITAI2373](https://github.com/Nichelleg/NLP-ITAI2373) 
 | ITAI 1371 | AI in Cybersecurity | *Coming soon* |
-| ITAI 2372 | AI Applications & Case Studies | [AI-Apps-ITAI2372](https://github.com/Nichelleg/AI-Apps-ITAI2372) | ✅ Active |
+| ITAI 2372 | AI Applications & Case Studies | [AI-Apps-ITAI2372](https://github.com/Nichelleg/AI-Apps-ITAI2372) 
 
-### 🔮 Fall 2026
+### 🔄 In progress - Fall 2026
 | Course | Title |
 |--------|-------|
 | ITAI 1378 | Computer Vision for AI |
@@ -60,7 +60,7 @@ Repositories are built as courses are completed. Each contains labs, projects, a
 | Course | Repository | Status |
 |--------|-----------|--------|
 | ITAI 2373 — Natural Language Processing | [NLP-ITAI2373](https://github.com/Nichelleg/NLP-ITAI2373) | ✅ Active |
-| ITAI 2371 — AI in Cybersecurity | *Coming soon* | 🔄 In Progress |
+| ITAI 2371 — AI in Cybersecurity | *Coming soon* 
 | ITAI 2372 — AI Applications & Case Studies | [AI-Apps-ITAI2372](https://github.com/Nichelleg/AI-Apps-ITAI2372) | ✅ Active |
 
 ---
