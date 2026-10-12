@@ -49,7 +49,7 @@ Before returning to school, I spent 10+ years in real estate investment and Airb
 | ITAI 2374 | Robot Operating Systems & Platforms in AI | *Coming soon* |
 | ITAI 2376 | Deep Learning in AI | [DeepLearning-ITAI2376](https://github.com/Nichelleg/DeepLearning-ITAI2376) |
 | ITAI 2377 | Data Science in AI | [DataScience-ITAI2377](https://github.com/Nichelleg/DataScience-ITAI2377) |
-| ITSE 1346 | Database Theory & Design (Oracle) | *Coming soon* |
+| ITSE 1346 | Database Theory & Design (Oracle) | [DatabaseTheory-ITSE1346](https://github.com/Nichelleg/DatabaseTheory-ITSE1346) |
 
 ---
 
