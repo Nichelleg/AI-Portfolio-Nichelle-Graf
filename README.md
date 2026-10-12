@@ -53,7 +53,7 @@ my mathematical, programming, and analytical foundation.*
 | ITAI 1370 | History of Artificial Intelligence | [AI-History-Fall2025](https://github.com/Nichelleg/AI-History-Fall2025) |
 | ITAI 1371 | Introduction to Machine Learning | [MachineLearning-ITAI1371](https://github.com/Nichelleg/MachineLearning-ITAI1371) |
 | ITSC 1307 | UNIX I — Linux Operating Systems | [Linux-ITSC1307](https://github.com/Nichelleg/Linux-ITSC1307) |
-| ITNW 1313 | Computer Virtualization | — |
+| ITNW 1313 | Computer Virtualization | [ComputerVirtualization-ITNW1313](https://github.com/Nichelleg/ComputerVirtualization-ITNW1313) |
 
 ### ✅ Spring 2026 — Applied AI Specialization
 
