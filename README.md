@@ -27,22 +27,44 @@ Before returning to school, I spent 10+ years in real estate investment and Airb
 
 ## Program Roadmap
 
-### ✅ Completed
-| Course | Title |
-|--------|-------|
-| COSC 1436 | Programming Fundamentals (Python) |
-| ITSC 1307 | UNIX Operating Systems (Linux) |
-| ITNW 1313 | Computer Virtualization |
-| ITAI 1371 | Introduction to Machine Learning |
+My academic journey began in Computer Information Systems
+before transitioning into the Bachelor of Applied Technology
+in Applied AI & Robotics.
 
-### ✅ Completed — Spring 2026
+My coursework combines programming, mathematics, business
+technology, machine learning, and applied artificial intelligence.
+
+### ✅ Spring 2025 — Foundations for AI & Computing
+
+*Computer Information Systems coursework that helped establish
+my mathematical, programming, and analytical foundation.*
+
+| Course | Title | Relevance to AI |
+|--------|-------|-----------------|
+| COSC 1436 | Programming Fundamentals (Python) | Programming logic, algorithms, and Python development |
+| BCIS 1305 | Business Computer Applications | Business technology, data organization, and productivity tools |
+| MATH 1342 | Elementary Statistical Methods | Statistical reasoning, data analysis, and model evaluation |
+| MATH 1325 | Calculus for Business & Social Sciences | Rates of change, optimization, and mathematical modeling |
+
+### ✅ Fall 2025 — AI & Computing Core
+
 | Course | Title | Repository |
-|--------|-------|-----------|
-| ITAI 2373 | Natural Language Processing | [NLP-ITAI2373](https://github.com/Nichelleg/NLP-ITAI2373) 
-| ITAI 1372 | AI in Cybersecurity | [AI-Cybersecurity](https://github.com/Nichelleg/AI-Cybersecurity-Spring2026) |
-| ITAI 2372 | AI Applications & Case Studies | [AI-Apps-ITAI2372](https://github.com/Nichelleg/AI-Apps-ITAI2372) 
+|--------|-------|------------|
+| ITAI 1370 | History of Artificial Intelligence | [AI-History-Fall2025](https://github.com/Nichelleg/AI-History-Fall2025) |
+| ITAI 1371 | Introduction to Machine Learning | — |
+| ITSC 1307 | UNIX Operating Systems (Linux) | — |
+| ITNW 1313 | Computer Virtualization | — |
 
-### 🔄 In progress - Fall 2026
+### ✅ Spring 2026 — Applied AI Specialization
+
+| Course | Title | Repository |
+|--------|-------|------------|
+| ITAI 2373 | Natural Language Processing | [NLP-ITAI2373](https://github.com/Nichelleg/NLP-ITAI2373) |
+| ITAI 1372 | AI in Cybersecurity | [AI-Cybersecurity-Spring2026](https://github.com/Nichelleg/AI-Cybersecurity) |
+| ITAI 2372 | AI Applications & Case Studies | [AI-Apps-ITAI2372](https://github.com/Nichelleg/AI-Apps-ITAI2372) |
+
+### 🔄 Fall 2026 — Advanced AI & Robotics (In Progress)
+
 | Course | Title | Repository |
 |--------|-------|------------|
 | ITAI 1378 | Computer Vision for AI | [ComputerVision-ITAI1378](https://github.com/Nichelleg/ComputerVision-ITAI1378) |
@@ -50,6 +72,28 @@ Before returning to school, I spent 10+ years in real estate investment and Airb
 | ITAI 2376 | Deep Learning in AI | [DeepLearning-ITAI2376](https://github.com/Nichelleg/DeepLearning-ITAI2376) |
 | ITAI 2377 | Data Science in AI | [DataScience-ITAI2377](https://github.com/Nichelleg/DataScience-ITAI2377) |
 | ITSE 1346 | Database Theory & Design (Oracle) | [DatabaseTheory-ITSE1346](https://github.com/Nichelleg/DatabaseTheory-ITSE1346) |
+
+---
+
+### The Importance of Mathematical Foundations in AI
+
+Although statistics and business calculus were not required
+for my Applied AI & Robotics degree, I consider them valuable
+foundations for understanding artificial intelligence.
+
+Statistics supports data interpretation, probability,
+model evaluation, and evidence-based decision-making.
+
+Calculus introduces concepts related to rates of change,
+optimization, and mathematical modeling that underpin
+many machine learning techniques.
+
+I believe applied AI education benefits from integrating
+mathematical understanding with programming and hands-on
+technical experience.
+
+Learning to implement an AI model is important.
+Understanding how and why it works is equally important.
 
 ---
 
