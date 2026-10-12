@@ -39,7 +39,7 @@ Before returning to school, I spent 10+ years in real estate investment and Airb
 | Course | Title | Repository |
 |--------|-------|-----------|
 | ITAI 2373 | Natural Language Processing | [NLP-ITAI2373](https://github.com/Nichelleg/NLP-ITAI2373) 
-| ITAI 1371 | AI in Cybersecurity | [AI-Cybersecurity-Spring2026](https://github.com/Nichelleg/AI-Cybersecurity-Spring2026) |
+| ITAI 1372 | AI in Cybersecurity | [AI-Cybersecurity-Spring2026](https://github.com/Nichelleg/AI-Cybersecurity-Spring2026) |
 | ITAI 2372 | AI Applications & Case Studies | [AI-Apps-ITAI2372](https://github.com/Nichelleg/AI-Apps-ITAI2372) 
 
 ### 🔄 In progress - Fall 2026
@@ -50,18 +50,6 @@ Before returning to school, I spent 10+ years in real estate investment and Airb
 | ITAI 2376 | Deep Learning in AI | [DeepLearning-ITAI2376](https://github.com/Nichelleg/DeepLearning-ITAI2376) |
 | ITAI 2377 | Data Science in AI | [DataScience-ITAI2377](https://github.com/Nichelleg/DataScience-ITAI2377) |
 | ITSE 1346 | Database Theory & Design (Oracle) | [DatabaseTheory-ITSE1346](https://github.com/Nichelleg/DatabaseTheory-ITSE1346) |
-
----
-
-## Course Repositories
-
-Course repositories document ongoing coursework, technical labs, and applied projects. Each repository serves as both an academic record and a developing professional portfolio.
-
-| Course | Repository | Status |
-|--------|-----------|--------|
-| ITAI 2373 — Natural Language Processing | [NLP-ITAI2373](https://github.com/Nichelleg/NLP-ITAI2373) | ✅ Active |
-| ITAI 2371 — AI in Cybersecurity | *Coming soon* 
-| ITAI 2372 — AI Applications & Case Studies | [AI-Apps-ITAI2372](https://github.com/Nichelleg/AI-Apps-ITAI2372) | ✅ Active |
 
 ---
 
