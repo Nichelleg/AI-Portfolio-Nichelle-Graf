@@ -51,7 +51,7 @@ my mathematical, programming, and analytical foundation.*
 | Course | Title | Repository |
 |--------|-------|------------|
 | ITAI 1370 | History of Artificial Intelligence | [AI-History-Fall2025](https://github.com/Nichelleg/AI-History-Fall2025) |
-| ITAI 1371 | Introduction to Machine Learning | — |
+| ITAI 1371 | Introduction to Machine Learning | [MachineLearning-ITAI1371](https://github.com/Nichelleg/MachineLearning-ITAI1371) |
 | ITSC 1307 | UNIX Operating Systems (Linux) | — |
 | ITNW 1313 | Computer Virtualization | — |
 
