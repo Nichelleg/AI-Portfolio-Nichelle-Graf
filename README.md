@@ -1,18 +1,17 @@
-# Nichelle Graf — AI & Robotics Portfolio
+# AI & Robotics Program Portfolio
+## Nichelle Graf
 
-**Applied Artificial Intelligence & Robotics | Houston City College**
-Bachelor of Applied Technology — AI & Robotics (Second Degree)
-
+### **Degree path: Bachelor of Applied Technology (BAT) in AI & Robotics | Houston City College**
 ---
 
 ## About Me
 
-I am a returning adult student pursuing a BAT in Applied AI & Robotics, bringing over a decade of experience in real estate and property management into the AI space. My focus is on building practical, production-oriented AI systems — particularly at the intersection of NLP, cybersecurity, and intelligent automation.
+I am a returning adult student pursuing a BAT in AI & Robotics, bringing my background in real estate, investment, project management and property care into the AI space. My focus is on building practical AI systems to promote efficiency and steamline business processes.
 My first degree is a B.L.S. in Communications & Media Studies from the University of Iowa — which turns out to be relevant in AI systems that process and understand human language.
-Before returning to school, I spent 10+ years in real estate investment and Airbnb property management. That background shapes how I approach AI: I think about systems that have to work in the real world, under real constraints, with real consequences for getting it wrong.
+I have 20+ years'experience in property renovation, investment, and design, and have been a real estate agent for over 12 years. More recently, I have worked Airbnb property management. That background shapes how I approach AI: I think about systems that have to work in the real world, under real constraints, with real consequences.
 
 ---
-
+ 
 ## Program Overview
 
 | | |
@@ -134,7 +133,6 @@ A startup-pitched API for detecting AI-generated content using a Retrieval-Augme
 
 ---
 
-## Contact
 
 **GitHub:** [github.com/Nichelleg](https://github.com/Nichelleg)
 **Program:** Applied AI & Robotics, Houston City College
