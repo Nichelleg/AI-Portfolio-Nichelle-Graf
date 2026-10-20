@@ -1,14 +1,18 @@
-# AI & Robotics Program Portfolio
-## Nichelle Graf
+## AI & Robotics Program Portfolio
+### Nichelle Graf
 
-### **Degree path: Bachelor of Applied Technology (BAT) in AI & Robotics | Houston City College**
+#### Degree path: Bachelor of Applied Technology (BAT) in AI & Robotics | Houston City College
+
+#### GitHub: [github.com/Nichelleg](https://github.com/Nichelleg)
 ---
 
 ## About Me
 
-I am a returning adult student pursuing a BAT in AI & Robotics, bringing my background in real estate, investment, project management and property care into the AI space. My focus is on building practical AI systems to promote efficiency and steamline business processes.
+I am a returning adult student pursuing a BAT in AI & Robotics, bringing my background in real estate investment, project management, marketing, and property care into the AI space. My focus is on building practical AI systems to optimize efficiency and steamline business processes.
+
 My first degree is a B.L.S. in Communications & Media Studies from the University of Iowa — which turns out to be relevant in AI systems that process and understand human language.
-I have 20+ years'experience in property renovation, investment, and design, and have been a real estate agent for over 12 years. More recently, I have worked Airbnb property management. That background shapes how I approach AI: I think about systems that have to work in the real world, under real constraints, with real consequences.
+
+I have 20+ years'experience in property renovation, investment, interior/exterior design, and staging properties for sale or lease. I have been a real estate agent for over 12 years. More recently, I have worked in Airbnb property operations management and presentation where my attention to detail and producing a quality product has resulted in excellent guest experience reviews for hosts. This background shapes how I approach AI: I think about systems that have to work in the real world, under real constraints, with real consequences.
 
 ---
  
@@ -74,28 +78,6 @@ my mathematical, programming, and analytical foundation.*
 
 ---
 
-### The Importance of Mathematical Foundations in AI
-
-Although statistics and business calculus were not required
-for my Applied AI & Robotics degree, I consider them valuable
-foundations for understanding artificial intelligence.
-
-Statistics supports data interpretation, probability,
-model evaluation, and evidence-based decision-making.
-
-Calculus introduces concepts related to rates of change,
-optimization, and mathematical modeling that underpin
-many machine learning techniques.
-
-I believe applied AI education benefits from integrating
-mathematical understanding with programming and hands-on
-technical experience.
-
-Learning to implement an AI model is important.
-Understanding how and why it works is equally important.
-
----
-
 ## Skills & Technologies
 
 **NLP & Text Processing**
@@ -132,8 +114,3 @@ A startup-pitched API for detecting AI-generated content using a Retrieval-Augme
 *Repository coming soon.*
 
 ---
-
-
-**GitHub:** [github.com/Nichelleg](https://github.com/Nichelleg)
-**Program:** Applied AI & Robotics, Houston City College
-**Location:** Houston, TX
